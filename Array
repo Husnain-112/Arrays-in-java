@@ -1,0 +1,12 @@
+public class Arrays
+{
+public static void main(String args[])
+{
+int monthdays[]={31,28,30,31,30,30,31,31,30,31,31,30};
+for(int i=0;i<=11;i++)
+
+System.out.println(monthdays[i]);
+
+}
+
+}
